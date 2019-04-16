@@ -1,4 +1,4 @@
-# Jump
+# Box Jumper
 
 An Android game created with Android Studio. 
 
